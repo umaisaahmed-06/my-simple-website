@@ -1,3 +1,4 @@
-p{color: crimson;
-background-color: antiquewhite;
-padding: 10px;}
+div{border: 10px solid pink;
+margin: 20px;
+padding: 10px;
+box-shadow: 10px 10px 20px black;}
