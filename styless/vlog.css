@@ -2,3 +2,9 @@ div{border: 10px solid pink;
 margin: 20px;
 padding: 10px;
 box-shadow: 10px 10px 20px black;}
+video{ width: 100%;
+ height: fit-content;}
+h1{text-align: center;
+font-size: 36;
+font-weight: bolder;
+color: white;}
